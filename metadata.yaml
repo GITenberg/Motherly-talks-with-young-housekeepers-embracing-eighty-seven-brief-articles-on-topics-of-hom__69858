@@ -1,0 +1,41 @@
+_repo: Motherly-talks-with-young-housekeepers-embracing-eighty-seven-brief-articles-on-topics-of-hom__69858
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Beecher, H. W., Mrs.
+    aliases:
+    - Beecher, Henry Ward, Mrs.
+    - Beecher, Eunice White Bullard
+    - Beecher, Mrs. H. W.
+    birthdate: 1813
+    deathdate: 1897
+    gutenberg_agent_id: '49735'
+    url: http://www.gutenberg.org/2009/agents/49735
+    wikipedia: https://en.wikipedia.org/wiki/Eunice_White_Beecher
+description: '"Originally published in the household department of ''The Christian
+  Union.''"'
+gutenberg_issued: '2023-01-22'
+identifiers:
+  gutenberg: '69858'
+  lccn: 07035687
+language: en
+pgterms:marc904: https://archive.org/details/motherlytalkswit00beec/page/n7/mode/2up
+pgterms:marc905: 20210427194243beecher
+pgterms:marc906: '1873'
+pgterms:marc907: US
+production_note: Charlene Taylor, Krista Zaleski and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: 'United States: J. B. Ford and Company,1873.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cooking'
+- !lcsh 'Home economics'
+- !lcc 'TX'
+- GITenberg
+title: "Motherly talks with young housekeepers\r\nembracing eighty-seven brief articles\
+  \ on topics of home interest, and about five hundred choice receipts for cooking,\
+  \ etc."
+url: http://www.gutenberg.org/ebooks/69858

@@ -1,5 +1,8 @@
 _repo: Motherly-talks-with-young-housekeepers-embracing-eighty-seven-brief-articles-on-topics-of-hom__69858
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69858-h/images/cover.jpg
 creator:
   author:
     agent_name: Beecher, H. W., Mrs.
@@ -14,6 +17,8 @@ creator:
     wikipedia: https://en.wikipedia.org/wiki/Eunice_White_Beecher
 description: '"Originally published in the household department of ''The Christian
   Union.''"'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69858#Motherly-talks-with-young-housekeepers-embracing-eighty-seven-brief-articles-on-topics-of-hom_
 gutenberg_issued: '2023-01-22'
 identifiers:
   gutenberg: '69858'
